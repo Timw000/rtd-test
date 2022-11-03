@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Mitt projekt'
+copyright = '2021, copyright Tim'
+author = 'Author Tim'
 
-release = '0.1'
-version = '0.1.0'
+release = 'Release 0.1'
+version = 'Version 0.1.0'
 
 # -- General configuration
 
